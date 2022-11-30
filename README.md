@@ -1,7 +1,7 @@
 # Traceroute Visualizer
 
 ## About the project
-Traceroute Visualizer is a tool written as a Python Notebook that, given a URL of destination, it performs an enriched traceroute.
+Traceroute Visualizer is a tool written as a Python Notebook that, given a destination URL, it performs an enriched traceroute.
 
 The traceroute result consists in plotting the path taken to reach the destination in the world map.
 In addition, it prints a table where for each IP hop is indicated the organization, the city and the coordinates.
