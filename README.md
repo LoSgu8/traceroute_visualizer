@@ -10,4 +10,4 @@ The destination hostname can be modified by changing the variable hostname, actu
 
 All the hops information is obtained using ip-api.com APIs (https://ip-api.com/docs/api:json).
 
-![alt text](https://github.com/LoSgu8/traceroute_visualizer/examèple.png?raw=true)
+![Image example](https://github.com/LoSgu8/traceroute_visualizer/examèple.png?raw=true)
